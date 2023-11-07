@@ -1,0 +1,42 @@
+body {
+    background-image: url(/assets/star-war-characters-in-daewoo-matiz.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.container{
+    max-width: 1400px;
+    margin: 0 auto;
+    
+    
+}
+
+input{
+    width: 25%;
+    height: 5%;
+    font-size: 35px;
+}
+
+button{
+    width: 200px;
+    height: 50px;
+    font-size: 36px;
+    background-color: red;
+    border-radius: 15px;
+    color: #fff;
+}
+
+h2{
+    font-size: 45px;
+    color: #fff;
+}
+
+h4{
+    color: #fff;
+    font-size: 30px;
+}
+
+p{
+    color: #fff;
+    font-size: 30px;
+}
